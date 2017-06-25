@@ -25,7 +25,7 @@
 14                 putchar('*');
 15             }
 16             for (int j=1; j<i; j++) {
-17                 putchar('*');
+17                 putchar('*');//懂了，相当于在三角形后面加*
 18             }
 19             putchar('\n');
 20

@@ -1,0 +1,3 @@
+G:/c/datastruct/menuette/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c/datastruct/menuette/cmake-build-debug/CMakeFiles/menuette.dir
+G:/c/datastruct/menuette/cmake-build-debug/CMakeFiles/rebuild_cache.dir

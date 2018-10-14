@@ -29,7 +29,8 @@ seStack s2,s3;
     scanf("%c",&c1);
     while(c1 != '#')
     {
-        push(&s2,c1);
+        if(c1 = '0' || c1 = '1')
+            push(&s2,c1);
         scanf("%c",&c1);
     }
     getchar();
